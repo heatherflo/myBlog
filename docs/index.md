@@ -23,3 +23,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+::: info
+This is an info box.
+:::

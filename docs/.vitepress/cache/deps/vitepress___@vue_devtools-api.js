@@ -489,7 +489,7 @@ function debounce(fn, wait = 25, options = {}) {
     });
     return currentPromise;
   };
-  return function (...args) {
+  return function(...args) {
     if (currentPromise) {
       if (options.trailing) {
         trailingArgs = args;
@@ -558,7 +558,7 @@ var require_speakingurl = __commonJS2({
   "../../node_modules/.pnpm/speakingurl@14.0.1/node_modules/speakingurl/lib/speakingurl.js"(exports, module) {
     "use strict";
     init_esm_shims2();
-    (function (root) {
+    (function(root) {
       "use strict";
       var charMap = {
         // latin
@@ -1951,7 +1951,7 @@ var require_speakingurl = __commonJS2({
           symbol = opts.lang && symbolMap[opts.lang] && convertSymbols ? symbolMap[opts.lang] : convertSymbols ? symbolMap.en : {};
           langChar = opts.lang && langCharMap[opts.lang] ? langCharMap[opts.lang] : opts.lang === false || opts.lang === true ? {} : langCharMap.en;
           if (opts.titleCase && typeof opts.titleCase.length === "number" && Array.prototype.toString.call(opts.titleCase)) {
-            opts.titleCase.forEach(function (v) {
+            opts.titleCase.forEach(function(v) {
               customReplacements[v + ""] = v + "";
             });
             titleCase = true;
@@ -1959,11 +1959,11 @@ var require_speakingurl = __commonJS2({
             titleCase = !!opts.titleCase;
           }
           if (opts.custom && typeof opts.custom.length === "number" && Array.prototype.toString.call(opts.custom)) {
-            opts.custom.forEach(function (v) {
+            opts.custom.forEach(function(v) {
               customReplacements[v + ""] = v + "";
             });
           }
-          Object.keys(customReplacements).forEach(function (v) {
+          Object.keys(customReplacements).forEach(function(v) {
             var r;
             if (v.length > 1) {
               r = new RegExp("\\b" + escapeChars(v) + "\\b", "gi");
@@ -2027,7 +2027,7 @@ var require_speakingurl = __commonJS2({
           result += ch.replace(new RegExp("[^\\w\\s" + allowedChars + "_-]", "g"), separator);
         }
         if (titleCase) {
-          result = result.replace(/(\w)(\S*)/g, function (_, i2, r) {
+          result = result.replace(/(\w)(\S*)/g, function(_, i2, r) {
             var j = i2.toUpperCase() + (r !== null ? r : "");
             return Object.keys(customReplacements).indexOf(j.toLowerCase()) < 0 ? j : j.toLowerCase();
           });
@@ -2053,7 +2053,7 @@ var require_speakingurl = __commonJS2({
       var escapeChars = function escapeChars2(input) {
         return input.replace(/[-\\^$*+?.()|[\]{}\/]/g, "\\$&");
       };
-      var isReplacedCustomChar = function (ch, customReplacements) {
+      var isReplacedCustomChar = function(ch, customReplacements) {
         for (var c in customReplacements) {
           if (customReplacements[c] === ch) {
             return true;
@@ -2064,7 +2064,7 @@ var require_speakingurl = __commonJS2({
         module.exports = getSlug;
         module.exports.createSlug = createSlug;
       } else if (typeof define !== "undefined" && define.amd) {
-        define([], function () {
+        define([], function() {
           return getSlug;
         });
       } else {
