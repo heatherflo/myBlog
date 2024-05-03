@@ -26,8 +26,10 @@ features:
 ::: info
 This is an info box.
 :::
+5/3/24
+The other day we got some baby chicks. The decision was hard as I got closer to the day of us actually going to buy them. We used to deal with so many chicks. I feel like I know what I am doing. But in reality, it was Jason that did it all. I may have fed them and replenished their water but I did not know that much. In my life I have had to kill a few baby chicks that didn't get out of their shell well enough or even ones that were really no good. And to be honest it was hard to do that. It was hard to accept nature for nature and let it do its thing. But last night, when one of the baby chicks wasn't doing well, I was really sad. I couldn't help but think that it was something I could have prevented from happening and that if I just new more about taking care of them, I would be able to fix the problems that she was having. And this morning I was relieved to see that she was still alive. I found a lump on her throat that I massaged and hopefully that will be the fix, right? Tell me that what I am doing will help her. Tell me that I am trying to make it better. Tell me that I am a good chicken owner. Tell me it wasn't always Jason that knew it all. Tell me. 
 
-5/1/24
+4/30/24
 There used to be this bathroom in my childhood home that had two doors. One door to the kitchen and one door that went into my sister's room. I saw this show once where a lady was really upset that the bathroom was straight off the kitchen and therefore she didn't buy the house. I never thought that was a problem. It was easy access from the outside straight from the  mudroom to the kitchen to the bathroom when I went to play. I took baths in that room. The heater was glorious after getting out of the bath tub. I learned how to blow dry my hair in that room. I have this memory that I have retold so many times in my life where there was a frog that lived in the back of the wall that would talk to me. And one day I saw him. I was today years old when I realized that maybe, just maybe, I dreamed that story up. There is so much vivid color to that memory but now, I will never know.  
 
 4/30/24
