@@ -6,21 +6,7 @@ hero:
   name: "My Blog"
   text: "My life from mom to coder in several posts"
   tagline: You won't want to miss this.
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Starting out
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Life in review
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: What I'm doing now
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 ---
 5/6/24
 Today I have a lot of things going through my head. I have a lot of projects in the works, including this blog. I am hard pressed to figure out what is the most important thing to work on in any given moment and I wonder if the idea of doing things like this is distracting me from actually applying for jobs. I had this revelation the other day that I would love to merry my two loves together. My love for the outdoors and my love for the tech world. Maybe if I am lucky I can do the things I want but with a company that is centered around doing things in the outdoors. How cool would that actually be? The hard part of all this is figuring out how to get an 'in' when it comes to working for a company like that. Do I continue to pursue my outdoor career online as my @momsgoadventure personality or do I pursue it as a resume writing person who just completed school? Don't know...
