@@ -9,6 +9,9 @@ hero:
   
 
 ---
+5/21/24
+I am finding that working in my garden is all I want to do. I can't help shake the feeling that I am meant to own my own business and run it from home. This way I can be home to help with things around the house but also do the things I love. That seems increasingly selfish so now I am trying to spread my time between things I want to do with my garden account and things I want to do with coding. I still need to finish my UX design certificate and I am plan on continuing to work on the things I need for my landing page. Its all good. I can do it all. 
+
 5/14/24
 Today I find myself procrastinating working on finding jobs. It is so exhausting looking for a job that is not what I want to do. Yesterday I was told that Wild Beginnings wasn't looking for any more teacher positions but that I could do something else. And I was honest and told her I could not work for less than $15 an hour. I have no idea what will  happen. I got notified that WinCo is not looking at me for the job anymore and while thats ok and I was honestly expecting that, it is still really disappointing to hear. So today I am applying for anything. Its hard bc you feel like you are not wanting to disappoint anyone by only working at a place for a short time- you just can't tell them that. Its just hard....
 
